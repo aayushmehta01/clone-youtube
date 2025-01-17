@@ -16,7 +16,7 @@ The primary goal of this project was to practice and refine CSS skills while und
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [<repository-link>](https://github.com/aayushmehta01/clone-youtube.git)
+   git clone https://github.com/aayushmehta01/clone-youtube.git
    ```
 2. Open the `index.html` file in your browser.
 
